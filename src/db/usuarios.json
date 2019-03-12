@@ -1,0 +1,32 @@
+[
+    {
+        "nombres": "Kevin",
+        "apellidos": "Rodriguez",
+        "emails": "Kaneki@gmail.com",
+        "contraseña": "1234"
+    },
+    {
+        "nombres": "Jackeline",
+        "apellidos": "Linares",
+        "emails": "Linares@gmail.com",
+        "contraseña": "12345"
+    },
+    {
+        "nombres": "Pedro",
+        "apellidos": "Arquimedes",
+        "emails": "Pedro@gmail.com",
+        "contraseña": "1234"
+    },
+    {
+        "nombres": "Seiya",
+        "apellidos": "Armando",
+        "emails": "Seiya@gmail.com",
+        "contraseña": "12345"
+    },
+    {
+        "nombres": "Peanut",
+        "apellidos": "Hwang",
+        "emails": "Faker@gmail.com",
+        "contraseña": "12345"
+    }
+]
